@@ -1,5 +1,5 @@
 * {
-/*background-color:#376E20;*/
+  /*background-color:#376E20;*/
   background-color: whitesmoke;
 }
 
@@ -9,9 +9,11 @@ li {
 
 .nav-bar {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.right-nav {
+.nav-links {
   display: flex;
+  justify-content: space-between;
 }
-
