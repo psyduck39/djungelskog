@@ -6,3 +6,12 @@
 li {
   list-style-type: none;
 }
+
+.nav-bar {
+  display: flex;
+}
+
+.right-nav {
+  display: flex;
+}
+
