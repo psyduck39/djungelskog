@@ -1,6 +1,5 @@
 * {
-  /*background-color:#376E20;*/
-  background-color: whitesmoke;
+  margin: 0;
 }
 
 li {
@@ -13,6 +12,9 @@ li {
   align-items: center;
   margin-left: 200px;
   margin-right: 200px;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  font-weight: 18px;
 }
 
 .nav-links {
