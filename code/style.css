@@ -2,23 +2,30 @@
   margin: 0;
 }
 
-li {
+ul {
   list-style-type: none;
+  display: flex;
+  gap: 15px;
 }
 
-.nav-bar {
+.pointer {
+  cursor: pointer;
+}
+.header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  margin-left: 200px;
-  margin-right: 200px;
   background-color: #1F2937;
-  color: #E5E7EB;
-  font-weight: 18px;
+  color: E5E7EB;
+  font-size: 18px;
+  padding: 8px;
 }
 
-.nav-links {
+.left {
   display: flex;
-  justify-content: space-between;
-  gap: 70px;
 }
+
+.right {
+  display: flex;
+}
+
