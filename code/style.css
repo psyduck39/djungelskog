@@ -19,6 +19,17 @@ h1 {
   font-weight: bolder;
 }
 
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 button {
   background-color: #3882F6;
   border-radius: 8px;
@@ -70,4 +81,12 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.pics {
+  display: flex;
+}
+
+.info-text {
+  color: 1F2937;
 }
