@@ -18,6 +18,17 @@ h1 {
   font-size: 48px;
   font-weight: bolder;
 }
+
+button {
+  background-color: #3882F6;
+  border-radius: 8px;
+  padding: 8px 16px;
+  color: #e5e7eb;
+  border: 1px solid #e5e7eb;
+  font-size: 15px;
+  font-weight: bold;
+}
+
 .pointer {
   cursor: pointer;
 }
