@@ -83,10 +83,16 @@ button {
   align-items: center;
 }
 
-.pics {
-  display: flex;
+.info-picture {
+  border: 4px solid #3882F6;
+  border-radius: 8px;
+  width: 150px;
+  height: 150px;
 }
 
-.info-text {
-  color: 1F2937;
+  
+.main-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
