@@ -118,14 +118,4 @@ button {
   color: #1f2937;
 }
 
-.call-section {
-  padding-top: 80px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
-.call-banner {
-  background-color: #3882F6;
-  border-radius: 5px;
-}
