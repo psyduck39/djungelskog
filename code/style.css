@@ -40,6 +40,10 @@ button {
   font-weight: bold;
 }
 
+h3 {
+  color: #F9FAF8;
+}
+
 .pointer {
   cursor: pointer;
 }
@@ -116,4 +120,33 @@ button {
   font-size: 20px;
   font-weight: bold;
   color: #1f2937;
+}
+
+.banner-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner {
+  background-color: #3882F6;
+  padding: 30px 50px 30px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.footer {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 30px; 
+}
+
+.footer-text {
+  color: #F9FAF8;
 }
